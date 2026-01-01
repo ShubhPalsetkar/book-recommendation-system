@@ -1,3 +1,4 @@
+
 # 📚 Book Recommendation System (TF-IDF + Streamlit)
 
 A content-based book recommender that suggests similar books using **TF-IDF vectorization** and **cosine similarity**.  
@@ -43,3 +44,7 @@ book-recommender/
 │   ├── books.csv         # Processed dataset used by the app
 │   └── raw/              # Raw Kaggle CSV placed here (not required to run if books.csv exists)
 └── README.md
+
+# book-recommendation-system
+A content-based book recommendation system built using TF-IDF vectorization and cosine similarity, deployed as an interactive Streamlit web application.
+
